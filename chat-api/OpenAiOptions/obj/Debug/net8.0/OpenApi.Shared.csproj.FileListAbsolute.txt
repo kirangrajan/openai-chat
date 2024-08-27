@@ -1,0 +1,12 @@
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\bin\Debug\net8.0\OpenApi.Shared.deps.json
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\bin\Debug\net8.0\OpenApi.Shared.dll
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\bin\Debug\net8.0\OpenApi.Shared.pdb
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\obj\Debug\net8.0\OpenApi.Shared.csproj.AssemblyReference.cache
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\obj\Debug\net8.0\OpenApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\obj\Debug\net8.0\OpenApi.Shared.AssemblyInfoInputs.cache
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\obj\Debug\net8.0\OpenApi.Shared.AssemblyInfo.cs
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\obj\Debug\net8.0\OpenApi.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\obj\Debug\net8.0\OpenApi.Shared.dll
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\obj\Debug\net8.0\refint\OpenApi.Shared.dll
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\obj\Debug\net8.0\OpenApi.Shared.pdb
+C:\Projects\TestProjects\OpenApiTests\chat\chat-api\OpenAiOptions\obj\Debug\net8.0\ref\OpenApi.Shared.dll

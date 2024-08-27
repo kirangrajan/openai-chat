@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>chat_api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="OpenAiOptions\**" />
+    <Compile Remove="OpenApi.Services\**" />
+    <Content Remove="OpenAiOptions\**" />
+    <Content Remove="OpenApi.Services\**" />
+    <EmbeddedResource Remove="OpenAiOptions\**" />
+    <EmbeddedResource Remove="OpenApi.Services\**" />
+    <None Remove="OpenAiOptions\**" />
+    <None Remove="OpenApi.Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.8" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="OpenAiOptions\OpenApi.Shared.csproj" />
+    <ProjectReference Include="OpenApi.Services\OpenApi.Services.csproj" />
+  </ItemGroup>
+
+</Project>

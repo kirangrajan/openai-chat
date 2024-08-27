@@ -1,0 +1,12 @@
+<div class="chat-method-buttons">
+    <button (click)="setActiveChatMethod(1)">Chat Method 1</button>
+    <button (click)="setActiveChatMethod(2)">Chat Method 2</button>
+    <button (click)="setActiveChatMethod(3)">Chat Method 3</button>
+  </div>
+  
+  <div class="chat-container">
+    <app-chat-option-a *ngIf="activeChatMethod === 1"></app-chat-option-a>
+    <app-chat-option-b *ngIf="activeChatMethod === 2"></app-chat-option-b>
+    <app-chat-option-c *ngIf="activeChatMethod === 3"></app-chat-option-c>
+  </div>
+  
